@@ -1,0 +1,6 @@
+{
+  "name": "QuantFinance AI - Multi-Asset Financial Intelligence & Backtesting Platform",
+  "description": "Production-grade quantitative financial intelligence platform with realistic backtesting, regime detection, dynamic correlation, stress testing, interactive pink and sky blue 3D live world, and institutional quant login portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
